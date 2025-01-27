@@ -1,11 +1,9 @@
 <div align="center">
 
-# Hi there, I'm **Tharun Motipalli**! 👋  
-### *Cloud Enthusiast | DevOps Engineer | Software Innovator*
+<h1 style="font-size: 3rem; font-weight: bold; margin-bottom: 0.5rem;">Tharun Motipalli</h1>
+<p style="font-size: 1.5rem; color: #555;">Cloud Enthusiast | DevOps Engineer | Software Innovator</p>
 
----
-
-![Welcome Banner](https://raw.githubusercontent.com/yourusername/yourusername/main/assets/banner.png)
+<hr style="width: 50%; border: 1px solid #ccc; margin: 1.5rem auto;">
 
 </div>
 
