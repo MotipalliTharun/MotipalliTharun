@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge)](https://yourportfolio.com)  
+[![Portfolio](https://motipallitharun.github.io/My_Portofolio/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=for-the-badge&logo=github)](https://github.com/yourusername)  
 
